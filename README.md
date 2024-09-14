@@ -20,8 +20,3 @@ I have successfully completed an iOS Development course at Red & White Multimedi
 - **Frameworks & Tools:** XCode 
 - **Backend & APIs:** Firebase, APIs
 - **Design:** Figma
-
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=meetmangukiya2710&show_icons=true&locale=en&layout=compact" alt="meetmangukiya2710" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=meetmangukiya2710&show_icons=true&locale=en" alt="meetmangukiya2710" /></p>
