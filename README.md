@@ -18,5 +18,5 @@ I have successfully completed an iOS Development course at Red & White Multimedi
 ### 💻 Skills
 - **Programming Languages:** C, C++, Swift, SwiftUi
 - **Frameworks & Tools:** XCode 
-- **Backend & APIs:** Firebase, APIs
+- **Backend & APIs:** Firebase, APIs, Core Data, Sqlite
 - **Design:** Figma
