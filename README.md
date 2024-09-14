@@ -1,4 +1,4 @@
-## Hi there 👋
+<h1 align="center">Hi there 👋</h1>
 
 <h1 align="center">Hi 👋, I'm Meet Mangukiya</h1>
 <h3 align="center">iOS Developer</h3>
