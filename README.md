@@ -1,5 +1,7 @@
-## Hi there 👋
+## Meet Mangukiya 👋
 
+# iOS Developer
+Fresher
 <!--
 **meetmangukiya2710/meetmangukiya2710** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
